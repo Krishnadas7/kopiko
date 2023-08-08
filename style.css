@@ -1,0 +1,142 @@
+*{
+    margin: 0;
+}
+.header{
+    display: flex;
+    flex-direction: column;
+    background-color: black;
+  
+    
+}
+.content{
+   width: 100%;
+   height: 150px;
+  align-items: center;
+    background-color: black;
+    color: wheat;
+    align-items: center;
+    text-align: center;
+    padding-top: 40px;
+    line-height: 50px;
+   
+    
+}
+.KOPIKO{
+    font-family:serif;
+    font-size: xx-large;
+    color: #979ea7;
+    
+}
+.KOPIKO:hover{
+    color: red;
+}
+.title{
+    font-family: 'FontAwesome';
+    color: #979ea7;
+}
+.title:hover{
+    color: red;
+}
+.sub-div{
+    width: 100%;
+    height: 50px;
+    background-color: black;
+    align-items: center;
+    color: #979ea7;
+    
+   display: flex;
+   justify-content: space-between ;
+
+   justify-content: center;
+
+}
+.p{
+    text-decoration: none;
+    color: wheat;
+    margin-right: 50px;
+    justify-content: center;
+}
+.ps{
+    text-decoration: none;
+    color: #54595f;
+    margin-right: 50px;
+    justify-content: center;
+}
+.ps:hover{
+    color: red;
+    opacity: 0.8;
+}
+.p:hover{
+    color: red;
+    opacity: 0.8;
+}
+
+.image1{
+   width: 100%;
+   height: 781px;
+    
+}
+.first-title{
+    
+    
+    background-color: black;
+    color: wheat;
+    width: 100%;
+    margin-top: -4px;
+    height: 249px;
+    justify-content: center;
+    text-align: center;
+}
+.title1{
+    width: 750px;
+    padding-left: 241px;
+    padding-top: 69px;
+    font-size: medium;
+    font-weight: 700;
+    color: #979ea7;
+    font-family: sans-serif;
+}
+.title2{
+    padding-left: 241px;
+    padding-top: 36px;
+    font-size: inherit;
+    font-weight: bolder;
+    margin-right: 327px;
+    color: #979ea7;
+    
+}
+.second-image{
+   background-color: black;
+   width: 100%;
+   height: 482px;
+}
+.image2{
+    margin-left: 186px;
+    margin-top: -36px;
+}
+.finaldiv{
+    background-color: black;
+    width: 100%;
+    height: 550px;
+}
+.icons{
+    width: 32px;
+    margin-right: 97px;
+    height: 26px;
+    border-radius: 26px;
+    
+}
+.icons-div{
+    padding-left: 438px;
+    padding-top: 228px;
+}
+.last{
+   color: #54595f;
+    font-size: small;
+    padding-left: 458px;
+    padding-top: 234px;
+}
+.KOPIKOUS:hover{
+    color: aliceblue;
+
+}
